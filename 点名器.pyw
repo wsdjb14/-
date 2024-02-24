@@ -147,7 +147,7 @@ def show_about():
     global lock
     lock = 'yes'
     time.sleep(0.1)
-    tkinter.messagebox.showinfo('关于','更多请到https://wsdjb14.github.io/')
+    tkinter.messagebox.showinfo('关于','更多请到https://wsdjb14.github.io/2024/01/05/%E7%82%B9%E5%90%8D/')
     lock = 'no'
                                 
 window = tkinter.Tk()
